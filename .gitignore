@@ -1,0 +1,14 @@
+# Secrets
+.env
+cookies.txt
+
+# Output data
+output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Misc
+*.log
